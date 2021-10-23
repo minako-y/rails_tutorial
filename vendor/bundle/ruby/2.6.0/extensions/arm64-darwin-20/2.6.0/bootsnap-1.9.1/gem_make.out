@@ -1,0 +1,15 @@
+current directory: /Users/yamamuraminako/Desktop/rails_tutorial/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+/Users/yamamuraminako/.rbenv/versions/2.6.8/bin/ruby -I /Users/yamamuraminako/.rbenv/versions/2.6.8/lib/ruby/2.6.0 -r ./siteconf20211021-23882-1ag1j9j.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yamamuraminako/Desktop/rails_tutorial/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/yamamuraminako/Desktop/rails_tutorial/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/yamamuraminako/Desktop/rails_tutorial/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20211021-23882-ejvw5u/bootsnap
